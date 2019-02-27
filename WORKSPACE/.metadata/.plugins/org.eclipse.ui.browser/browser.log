@@ -1,0 +1,30 @@
+
+Feb 25, 2019 16:16:39.80 NEW SESSION
+Feb 25, 2019 16:16:39.80 [Child 8504, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Feb 25, 2019 16:21:50.55 [Child 8504, Chrome_ChildThread] WARNING: pipe error: 109: f[Child 6740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/c[Child 1076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Feb 25, 2019 16:21:50.56 [Child 1076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Feb 25, 2019 16:21:50.56 ommon/ipc_channel_win.cc, line 332
+Feb 25, 2019 16:21:50.62 
+Feb 25, 2019 16:21:50.66 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0097,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+Feb 25, 2019 16:21:50.67 
+Feb 25, 2019 16:21:50.67 
+Feb 25, 2019 16:21:50.69 ###!!! [Parent][MessageChannel] Error: (msgtype=0x1E0086,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+Feb 25, 2019 16:21:50.69 
+Feb 25, 2019 16:21:50.70 
+Feb 25, 2019 16:21:50.70 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+Feb 25, 2019 16:21:50.72 
+Feb 25, 2019 16:21:50.72 
+Feb 25, 2019 16:21:50.73 ###!!! [Child][MessageChannel] Error: (msgtype=0x1E002C,name=PBrowser::Msg_SetInputContext) Closed channel: cannot send/recv
+Feb 25, 2019 16:21:50.73 
+Feb 25, 2019 16:21:50.75 
+Feb 25, 2019 16:21:50.75 ###!!! [Child][MessageChannel] Error: (msgtype=0x350110,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+Feb 25, 2019 16:21:50.77 
+
+Feb 27, 2019 13:36:58.24 NEW SESSION
+Feb 27, 2019 13:36:58.24 [Chil[Cd 8064hild,  Chrome_1C2hildTh4read] WA4, ChromReNI_CNGhildThre: pipe ead] WArror: R109:N filING:e  pipze:/buil ed/builrrd/or:src 1/0ipc/9: file z:/bcuhromiium/lsrd/buc/chirlod/me/comsmon/ric/pc_chaipc/chnnelr_omwiium/src/nc.hcc, line 3r3o2
+Feb 27, 2019 13:36:58.27 me/common/ipc_channel_[win.cc, line 332
+Feb 27, 2019 13:36:58.27 [Child 1244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Feb 27, 2019 13:36:58.29 C[Child 7184, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 332
+Feb 27, 2019 13:36:59.18 [Child 7184, Chrome_ChildThread] WARNING: pipe error: 
+Feb 27, 2019 13:36:59.23 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+Feb 27, 2019 13:36:59.24 
